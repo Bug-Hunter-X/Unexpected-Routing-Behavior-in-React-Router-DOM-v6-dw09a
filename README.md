@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in React Router DOM v6 involving unexpected routing behavior.  The bug manifests as incorrect route matching, particularly when nested routes or route parameters are used. The solution provides a corrected approach to ensure proper route matching and navigation.
